@@ -71,7 +71,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-1-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-1-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1"
         }
@@ -128,7 +128,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-2"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-2-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-2-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-2"
         }
@@ -185,7 +185,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-3"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-3-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-3-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-3"
         }
@@ -242,7 +242,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-4"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-4-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-4-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-4"
         }
@@ -299,7 +299,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-5"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-5-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-5-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-5"
         }
@@ -356,7 +356,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-6"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-6-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-6-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-6"
         }
@@ -413,7 +413,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-7"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-7-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-7-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-7"
         }
@@ -470,7 +470,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-8-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-8-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8"
         }
@@ -527,7 +527,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-9"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-9-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-9-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-9"
         }
@@ -584,7 +584,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-10"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-10-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-10-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-10"
         }
@@ -641,7 +641,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-11"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-11-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-11-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-11"
         }
@@ -698,7 +698,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-12"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-12-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-12-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-12"
         }
@@ -755,7 +755,7 @@ layout: none
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-13"
         },
         {
-          "id": "{{ '/' | absolute_url }}annotations/laborpanels-13-list.json",
+          "id": "https://annonatatencsu.github.io/MIE-432/annotations/laborpanels-13-list.json",
           "type": "AnnotationPage",
           "target": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-13"
         }
