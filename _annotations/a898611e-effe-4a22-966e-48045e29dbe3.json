@@ -1,0 +1,34 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Cool stuff",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Visualization Studio Room",
+                "name": "Visualization Studio Room"
+            },
+            "created": "2023-01-23T20:11:09.809Z",
+            "modified": "2023-01-23T20:11:10.992Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2320.3346099853516\" cy=\"4090.554443359375\" rx=\"2170.3348236083984\" ry=\"511.004638671875\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a898611e-effe-4a22-966e-48045e29dbe3.json",
+    "motivation": "commenting"
+}
