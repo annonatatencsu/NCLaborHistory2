@@ -22,7 +22,7 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=285.1660461425781,4332.11181640625,9388.343719482422,1349.57421875"
+            "value": "xywh=345.7295227050781,4554.17724609375,8970.284149169922,940.68896484375"
         },
         "dcterms:isPartOf": {
             "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
