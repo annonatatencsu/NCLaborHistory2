@@ -1,0 +1,34 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1"
+order: 7
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Raleigh became the hub for meetings in 1905 with 1000 delegates",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Team F",
+                "name": "Team F"
+            },
+            "created": "2023-01-23T20:27:13.554Z",
+            "modified": "2023-01-23T20:27:45.520Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"5172.3935546875,365.581298828125 9842.6640625,615.7743530273438 9620.2705078125,5480.63916015625 5116.79541015625,5230.4462890625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f910951f-e202-4daa-9f63-4323734b2a82.json",
+    "motivation": "commenting"
+}
