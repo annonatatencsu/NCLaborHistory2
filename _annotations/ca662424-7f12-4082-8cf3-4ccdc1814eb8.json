@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-7"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Question 8",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Group C",
+                "name": "Group C"
+            },
+            "created": "2023-01-23T20:19:21.168Z",
+            "modified": "2023-01-23T20:19:24.252Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-7",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=-38.093963623046875,6739.99755859375,4580.502655029297,1551.29150390625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ca662424-7f12-4082-8cf3-4ccdc1814eb8.json",
+    "motivation": "commenting"
+}
