@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Finally victory",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Group C",
+                "name": "Group C"
+            },
+            "created": "2023-01-23T20:26:13.706Z",
+            "modified": "2023-01-23T20:26:21.125Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4776.21484375,11519.498046875,5396.5078125,1437.2607421875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "aca9cdeb-e1fa-4e3a-bf9f-548d8a3b2bfb.json",
+    "motivation": "commenting"
+}
