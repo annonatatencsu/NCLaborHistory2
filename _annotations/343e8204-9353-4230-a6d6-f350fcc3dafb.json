@@ -1,0 +1,34 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Breaking promises",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Group C",
+                "name": "Group C"
+            },
+            "created": "2023-01-23T20:25:29.954Z",
+            "modified": "2023-01-23T20:25:36.760Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2633.9864196777344\" cy=\"9596.1064453125\" rx=\"2680.4852600097656\" ry=\"1205.544921875\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "343e8204-9353-4230-a6d6-f350fcc3dafb.json",
+    "motivation": "commenting"
+}
