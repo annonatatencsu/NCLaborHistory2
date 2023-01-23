@@ -10,8 +10,8 @@ order: 1
             "value": "Important",
             "purpose": "commenting",
             "creator": {
-                "id": "Shaun Test",
-                "name": "Shaun Test"
+                "id": "Group D",
+                "name": "Group D"
             },
             "created": "2023-01-23T20:18:13.234Z",
             "modified": "2023-01-23T20:18:15.720Z"
