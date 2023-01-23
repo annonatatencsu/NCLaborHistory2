@@ -3,33 +3,44 @@ canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/la
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Test comment",
-            "purpose": "commenting",
+            "created": "2023-01-23T17:49:58.822Z",
             "creator": {
                 "id": "Shaun Test",
                 "name": "Shaun Test"
             },
-            "created": "2023-01-23T17:49:58.822Z",
-            "modified": "2023-01-23T17:50:02.312Z"
+            "modified": "2023-01-23T17:50:02.312Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Test comment"
+        },
+        {
+            "type": "TextualBody",
+            "value": "test comment 2",
+            "purpose": "commenting",
+            "creator": {
+                "id": "test",
+                "name": "test"
+            },
+            "created": "2023-01-23T18:05:28.415Z",
+            "modified": "2023-01-23T18:05:30.794Z"
         }
     ],
+    "id": "f369b55f-59e8-4b5e-8c15-0a0d17fafcc9.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=5896.62939453125,9959.703125,2268.08837890625,404.578125"
-        },
         "dcterms:isPartOf": {
             "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=5896.62939453125,9959.703125,2268.08837890625,404.578125"
+        },
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "f369b55f-59e8-4b5e-8c15-0a0d17fafcc9.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
