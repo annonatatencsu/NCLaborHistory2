@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Breaking the law",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Group C",
+                "name": "Group C"
+            },
+            "created": "2023-01-23T20:24:49.863Z",
+            "modified": "2023-01-23T20:24:53.805Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4974.07177734375,7865.2333984375,4789.32861328125,2405.5986328125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6a60457d-da11-4cc6-b5a3-0aa462d8bb3a.json",
+    "motivation": "commenting"
+}
