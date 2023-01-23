@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-7"
+order: 6
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "In the end he was forced",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Group C",
+                "name": "Group C"
+            },
+            "created": "2023-01-23T20:20:14.084Z",
+            "modified": "2023-01-23T20:20:22.283Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-7",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4982.76025390625,13478.533203125,4430.77880859375,860.708984375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "18cec0f7-95aa-4146-954f-a17220280afe.json",
+    "motivation": "commenting"
+}
