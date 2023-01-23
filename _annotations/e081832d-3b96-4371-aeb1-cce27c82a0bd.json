@@ -1,0 +1,34 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-4"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Reasoning for the worker strike ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Group A",
+                "name": "Group A"
+            },
+            "created": "2023-01-23T20:18:49.537Z",
+            "modified": "2023-01-23T20:19:04.097Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-4",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"3418.08251953125\" cy=\"3501.8492431640625\" rx=\"3867.94189453125\" ry=\"889.1075439453125\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e081832d-3b96-4371-aeb1-cce27c82a0bd.json",
+    "motivation": "commenting"
+}
