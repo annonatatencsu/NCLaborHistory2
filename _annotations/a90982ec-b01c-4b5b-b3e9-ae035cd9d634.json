@@ -1,0 +1,34 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Originally a secret organization due to employer retaliations ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Team F",
+                "name": "Team F"
+            },
+            "created": "2023-01-23T20:22:35.891Z",
+            "modified": "2023-01-23T20:22:56.383Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"933.0115356445312\" cy=\"7519.691162109375\" rx=\"1153.6679077148438\" ry=\"903.474853515625\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a90982ec-b01c-4b5b-b3e9-ae035cd9d634.json",
+    "motivation": "commenting"
+}
