@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-13"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Outside of politics, union sentiment formed through the help of naacp and duke",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Team F",
+                "name": "Team F"
+            },
+            "created": "2023-01-23T20:20:59.323Z",
+            "modified": "2023-01-23T20:21:53.681Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-13",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=-36.324241638183594,13195.8291015625,9836.159202575684,2406.2001953125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d98a8c84-b974-4348-8c9a-53615a5d1fad.json",
+    "motivation": "commenting"
+}
