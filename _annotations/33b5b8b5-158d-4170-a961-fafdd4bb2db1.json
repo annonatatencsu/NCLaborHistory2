@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-9"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Issue leading to unionization",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Shaun Test",
+                "name": "Shaun Test"
+            },
+            "created": "2023-01-23T20:20:26.247Z",
+            "modified": "2023-01-23T20:20:33.009Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-9",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=193.72882080078125,7878.2001953125,8317.861022949219,628.0048828125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "33b5b8b5-158d-4170-a961-fafdd4bb2db1.json",
+    "motivation": "commenting"
+}
