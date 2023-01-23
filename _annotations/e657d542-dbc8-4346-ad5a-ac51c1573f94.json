@@ -1,0 +1,35 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-13"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The onset of ww2 bringing new working class unity",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Team F",
+                "name": "Team F"
+            },
+            "created": "2023-01-23T20:16:03.079Z",
+            "modified": "2023-01-23T20:16:30.904Z"
+        }
+    ],
+    "target": {
+        "source": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-13",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=75.93218231201172,4591.7490234375,7056.021430969238,1056.77734375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e657d542-dbc8-4346-ad5a-ac51c1573f94.json",
+    "motivation": "commenting"
+}
