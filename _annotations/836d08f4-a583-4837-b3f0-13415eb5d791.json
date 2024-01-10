@@ -4,9 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
-    "body": [],
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Had to downsize so they sued to have it brought back to local facility",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Jamie",
+                "name": "Jamie"
+            },
+            "created": "2024-01-10T20:21:20.581Z",
+            "modified": "2024-01-10T20:21:52.148Z"
+        }
+    ],
+    "id": "836d08f4-a583-4837-b3f0-13415eb5d791.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=281.6168212890625,11283.50390625,5890.8553466796875,1155.865234375"
+        },
         "source": {
             "partOf": {
                 "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
@@ -14,13 +32,7 @@ order: 1
             },
             "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-12",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=281.6168212890625,11283.50390625,5890.8553466796875,1155.865234375"
         }
     },
-    "id": "836d08f4-a583-4837-b3f0-13415eb5d791.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
