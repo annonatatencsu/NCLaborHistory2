@@ -1,0 +1,38 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-6"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "In order to get the south more comfortable with unions and avoid negative behavior people should unionize",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Team cookie",
+                "name": "Team cookie"
+            },
+            "created": "2025-01-13T20:19:35.834Z",
+            "modified": "2025-01-13T20:20:46.224Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-6",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=7118.33984375,1389.96142578125,2362.9345703125,3252.509765625"
+        }
+    },
+    "id": "8c8928dc-77a1-4ddc-b42c-7f8d757d0cb7.json",
+    "motivation": "commenting"
+}
