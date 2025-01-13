@@ -1,0 +1,26 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-4"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-4",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4998.28857421875,3234.42529296875,2257.7216796875,298.189697265625"
+        }
+    },
+    "id": "b19acd80-edb5-4c6f-b624-38a734f61f4f.json",
+    "motivation": "commenting"
+}
