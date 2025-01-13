@@ -1,0 +1,38 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-7"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Another reason to unionize is for a better chance at equality in the workplace",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Team cookie",
+                "name": "Team cookie"
+            },
+            "created": "2025-01-13T20:23:35.116Z",
+            "modified": "2025-01-13T20:24:02.809Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-7",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=529.9227905273438,10341.3125,2529.7297973632812,2640.9267578125"
+        }
+    },
+    "id": "9a599e80-65af-4e55-8bc1-9e158ec23d72.json",
+    "motivation": "commenting"
+}
