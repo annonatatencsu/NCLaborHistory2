@@ -1,0 +1,38 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "No job security ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Rylee D",
+                "name": "Rylee D"
+            },
+            "created": "2025-01-13T20:11:18.912Z",
+            "modified": "2025-01-13T20:11:25.229Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3145.864501953125,9223.6142578125,3369.169677734375,1664.041015625"
+        }
+    },
+    "id": "84ad00a8-52d9-4980-a185-abfb8feaf985.json",
+    "motivation": "commenting"
+}
