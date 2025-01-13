@@ -1,0 +1,38 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-13"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The union helped break down racial barriers imposed by Jim Crow; it helped with employee representation.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Amelia",
+                "name": "Amelia"
+            },
+            "created": "2025-01-13T20:24:26.508Z",
+            "modified": "2025-01-13T20:25:24.207Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-13",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=0,2918.831298828125,6838.79150390625,3434.688232421875"
+        }
+    },
+    "id": "a71341e4-cfd0-4da9-8b86-8e6c2d6656e4.json",
+    "motivation": "commenting"
+}
