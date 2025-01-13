@@ -1,0 +1,38 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-9"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "- intimidated voters (para. 2)\n- detaining employees at work (para. 2)\n- told they has to rehire but did not \n- abused immigration enforcement (para 4)\n- walk out not a strike / employees wanted better working conditions and more time off ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Rylee D",
+                "name": "Rylee D"
+            },
+            "created": "2025-01-13T20:18:18.369Z",
+            "modified": "2025-01-13T20:23:13.741Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-9",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=220.38121032714844,703.812255859375,1801.7594146728516,1970.67431640625"
+        }
+    },
+    "id": "f2b7fdaf-10cf-46ee-a834-0ad43d0dc216.json",
+    "motivation": "commenting"
+}
