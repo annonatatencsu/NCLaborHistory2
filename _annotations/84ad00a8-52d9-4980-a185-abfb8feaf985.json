@@ -20,11 +20,6 @@ order: 1
     "id": "84ad00a8-52d9-4980-a185-abfb8feaf985.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=3145.864501953125,9223.6142578125,3369.169677734375,1664.041015625"
-        },
         "source": {
             "partOf": {
                 "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
@@ -32,6 +27,11 @@ order: 1
             },
             "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8",
             "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4646.1708984375,6295.87451171875,2937.23974609375,1937.8955078125"
         }
     },
     "type": "Annotation"
