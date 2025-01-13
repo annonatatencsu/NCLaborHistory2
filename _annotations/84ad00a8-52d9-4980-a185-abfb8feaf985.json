@@ -4,21 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "No job security ",
-            "purpose": "commenting",
+            "created": "2025-01-13T20:11:18.912Z",
             "creator": {
                 "id": "Rylee D",
                 "name": "Rylee D"
             },
-            "created": "2025-01-13T20:11:18.912Z",
-            "modified": "2025-01-13T20:11:25.229Z"
+            "modified": "2025-01-13T20:16:22.695Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "- No job security (para.2)\n-Fieldcrest acted illegally during campaign (para. 3)\n-broke the law to keep from union forming & 6 years before the people that were illegally fired to be rehired (para 4)\n- anti-union propaganda (para 5)\n- largest layoff in NC history "
         }
     ],
+    "id": "84ad00a8-52d9-4980-a185-abfb8feaf985.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=3145.864501953125,9223.6142578125,3369.169677734375,1664.041015625"
+        },
         "source": {
             "partOf": {
                 "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
@@ -26,13 +32,7 @@ order: 1
             },
             "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-8",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=3145.864501953125,9223.6142578125,3369.169677734375,1664.041015625"
         }
     },
-    "id": "84ad00a8-52d9-4980-a185-abfb8feaf985.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
