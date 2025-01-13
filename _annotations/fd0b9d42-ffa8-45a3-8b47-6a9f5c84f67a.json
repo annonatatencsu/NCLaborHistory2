@@ -1,0 +1,38 @@
+---
+canvas: "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-6"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Reason is to improve working conditions",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Team cookie",
+                "name": "Team cookie"
+            },
+            "created": "2025-01-13T20:11:01.300Z",
+            "modified": "2025-01-13T20:12:21.406Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/MIE-432/manifests/iiif/laborpanels/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatencsu.github.io/NCLaborHistory/img/derivatives/iiif/laborpanels/canvas/laborpanels-6",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=136.88511657714844,4141.669921875,4539.300918579102,1749.5224609375"
+        }
+    },
+    "id": "fd0b9d42-ffa8-45a3-8b47-6a9f5c84f67a.json",
+    "motivation": "commenting"
+}
